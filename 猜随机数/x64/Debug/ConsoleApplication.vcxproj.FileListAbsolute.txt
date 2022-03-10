@@ -1,0 +1,3 @@
+D:\Ultimus\c++\1\ConsoleApplication\x64\Debug\ConsoleApplication.exe
+D:\git\practice\c++\ConsoleApplication\x64\Debug\ConsoleApplication.exe
+D:\git\practice\c++\猜随机数\x64\Debug\ConsoleApplication.exe
