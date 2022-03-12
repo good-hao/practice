@@ -1,1 +1,0 @@
-D:\git\practice\c++\乘法口诀\ConsoleApplication\x64\Debug\ConsoleApplication.exe
