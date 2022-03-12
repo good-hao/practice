@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="maopao.cpp">
+    <ClCompile Include="猜随机数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
