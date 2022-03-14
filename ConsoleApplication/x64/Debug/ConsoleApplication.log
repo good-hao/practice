@@ -1,3 +1,1 @@
-﻿  冒泡排序.cpp
-D:\git\practice\ConsoleApplication\冒泡排序.cpp(11,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
-  ConsoleApplication.vcxproj -> D:\git\practice\ConsoleApplication\x64\Debug\ConsoleApplication.exe
+﻿  ConsoleApplication.vcxproj -> D:\git\practice\ConsoleApplication\x64\Debug\ConsoleApplication.exe
