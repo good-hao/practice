@@ -1,1 +1,4 @@
-﻿  ConsoleApplication.vcxproj -> D:\git\practice\ConsoleApplication\x64\Debug\ConsoleApplication.exe
+﻿  shuchu.cpp
+  test.cpp
+  正在生成代码...
+D:\git\practice\ConsoleApplication\shuchu.cpp(9): error C4716: “GetResult”: 必须返回一个值
